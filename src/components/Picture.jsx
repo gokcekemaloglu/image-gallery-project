@@ -13,6 +13,7 @@ const Picture = ({photographer,src}) => {
       </div>            
         <p>Photographer: {photographer}</p>
       </div>
+      
 
         
     </div>
